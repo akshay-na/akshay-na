@@ -33,7 +33,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/akshay-na/akshay-na">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-na&hide=html,tex&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-na&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=5" />
 </a>
 <a href="https://github.com/akshay-na/akshay-na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-na&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Akshay's Github Stats">
