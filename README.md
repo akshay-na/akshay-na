@@ -8,8 +8,7 @@
 
 My name is Akshay N and I'm a software developer. I'm from
 India,, living in Banglore and currently working at Hexaware Technology. You can
-on find me LinkedIn
- [![LinkedIn][3.2]][3].
+on find me [LinkedIn][3].
 
 ## &#x270d; Blog & Writing
 
@@ -53,7 +52,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
