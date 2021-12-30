@@ -6,13 +6,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Akshay N and I'm a software developer. I'm from
-India,, living in Banglore and currently working at Hexaware Technology. You can
-on find me [LinkedIn][3].
+My name is Akshay N and I'm a software developer. I'm from India, living in Banglore and currently working at Hexaware Technology. You can on find me [LinkedIn][3].
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@short_saga)
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@short_saga).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
