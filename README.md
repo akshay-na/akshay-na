@@ -1,12 +1,8 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
-<p align="center">
-  <img src="welcome.gif"/>
-</p>
+# Hello, I'm Akshay! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is Akshay N and I'm a Blockchain Developer. I'm from India, living in Banglore and currently working at Cyber Infrastructure (CIS). You can on find me [LinkedIn][3].
+My name is Akshay N, a Blockchain Developer from India. I am deeply in love with shell, blockchain, web3 and remote work. Improving open-source projects, one commit at a time. You can on find me at [LinkedIn][3].
 
 ## &#x270d; Blog & Writing
 
@@ -72,4 +68,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
