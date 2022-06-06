@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=You%20Found%20Me,%20Awesome!&fontSize=35&fontAlignY=20&desc=...go ahead, read%20a%20little%20about%20me.&descSize=20&descAlignY=45&animation=twinkling"/>
 
-# Hello, I'm Akshay! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, I'm Akshay!
 
 My name is Akshay N, a Blockchain Developer from India. I am deeply in love with shell, blockchain, web3 and remote work. Improving open-source projects, one commit at a time. You can on find me at [LinkedIn][3].
 
