@@ -6,7 +6,7 @@ My name is Akshay N, a Blockchain Developer from India. I am deeply in love with
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@short_saga).
+Apart from coding, I also maintain a blog - you can find my blogs on [Medium](https://medium.com/@short_saga).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
