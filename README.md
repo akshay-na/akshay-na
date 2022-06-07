@@ -12,8 +12,6 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-NodeJs-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
