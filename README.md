@@ -6,9 +6,13 @@
 
 My name is Akshay N, a Blockchain Developer from India. I am deeply in love with shell, blockchain, web3 and remote work. Improving open-source projects, one commit at a time. You can on find me at [LinkedIn][3].
 
+</br>
+
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my blogs on [Medium](https://medium.com/@short_saga).
+
+</br>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -29,16 +33,18 @@ Apart from coding, I also maintain a blog - you can find my blogs on [Medium](ht
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-IPFS-informational?style=flat&logo=IPFS&logoColor=white&color=2bbc8a)
 
+</br>
 
 ## &#x1f4c8; GitHub Stats
 
+<p align="center">
 <a href="https://github.com/akshay-na/akshay-na">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-na&hide=html,css,scss&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&langs_count=5" />
 </a>
 <a href="https://github.com/akshay-na/akshay-na">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akshay-na&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Akshay's Github Stats">
-
 </a>
+</p>
 
 
 
@@ -70,4 +76,6 @@ Apart from coding, I also maintain a blog - you can find my blogs on [Medium](ht
 <!-- Shields: https://shields.io/ -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+</p>
