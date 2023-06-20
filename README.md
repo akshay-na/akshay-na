@@ -4,7 +4,7 @@
 
 # Hello, I'm Akshay!
 
-My name is Akshay N, a Blockchain Developer from India. I am deeply in love with shell, blockchain, web3 and remote work. Improving open-source projects, one commit at a time. You can on find me at [LinkedIn][3].
+I'm Akshay N, a passionate Software Developer based in India. With a profound love for shell scripting, blockchain technology, and the exciting world of web3, I thrive on leveraging these cutting-edge technologies to build innovative solutions. As a firm believer in the power of open-source, I actively contribute to various projects, constantly striving to make a positive impact one commit at a time. With a strong background in remote work, I bring a dedicated and self-motivated approach to every project I undertake. Let's connect on [LinkedIn][3] and explore the endless possibilities of collaboration and growth in this ever-evolving tech landscape.
 
 </br>
 
