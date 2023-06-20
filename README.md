@@ -10,7 +10,7 @@ I'm Akshay N, a passionate Software Developer based in India. With a profound lo
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my blogs on [Medium](https://medium.com/@short_saga).
+I am also an avid blogger and content creator. If you're curious to explore my writing prowess, I invite you to visit my engaging blog on Medium. By visiting [Medium](https://medium.com/@short_saga), you can visit and check out the blogs.
 
 </br>
 
