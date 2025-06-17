@@ -23,6 +23,8 @@ I'm Akshay N, a passionate Software Developer based in India. With a profound lo
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![Verilog](https://img.shields.io/badge/verilog-%23000000.svg?style=plastic&logoColor=white)
+![VHDL](https://img.shields.io/badge/vhdl-%237C00FF.svg?style=plastic&logoColor=white)  
 
 ### 🧱 Frameworks:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -96,6 +98,8 @@ I'm Akshay N, a passionate Software Developer based in India. With a profound lo
 ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
 ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=plastic&logo=opensea&logoColor=white)
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E16737.svg?style=plastic&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-%23000000.svg?style=plastic&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=akshay-na&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
