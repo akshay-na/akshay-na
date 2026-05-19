@@ -1,18 +1,31 @@
 <div align="center">
 
-# Akshay N
+<br/>
 
-### Senior Software Engineer • Platform Engineering • Distributed Systems
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=260&section=header&text=Akshay%20N&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Senior%20Software%20Engineer%20•%20Platform%20Engineering%20•%20Distributed%20Systems&descAlignY=58" />
 
-<i>Building observable, reproducible, and operationally simple systems.</i>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=820&lines=Building+observable+and+operationally+simple+distributed+systems;Infrastructure+should+be+predictable,+declarative,+and+reliable;Automating+repetitive+workflows+to+maximize+developer+focus;Complexity+is+a+long-term+operational+liability;Designing+self-healing+GitOps-driven+platform+systems" />
 
-🌐 [Portfolio](https://akshay-na.in)&ensp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16"/> [LinkedIn](https://www.linkedin.com/in/akshay-na/)&ensp; 
-📄 [Resume](https://docs.google.com/document/d/1bI1du_KNfonEWy7pKNwxKI6j1BVnf1JCgx6FxcXQh8I/export?format=pdf)
+<br/>
+
+<p>
+  <img src="https://img.shields.io/github/stars/akshay-na?style=for-the-badge&color=facc15&logo=github&label=Total%20Stars" />
+  <img src="https://img.shields.io/github/followers/akshay-na?style=for-the-badge&color=1e40af" />
+</p>
+
+<a href="https://akshay-na.in">
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>&ensp;
+
+<a href="https://www.linkedin.com/in/akshay-na/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&ensp;
+
+<a href="https://docs.google.com/document/d/1bI1du_KNfonEWy7pKNwxKI6j1BVnf1JCgx6FxcXQh8I/export?format=pdf">
+  <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=googledocs&logoColor=white" />
+</a>
 
 </div>
-
----
 
 # 💫 About Me
 
