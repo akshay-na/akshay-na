@@ -49,11 +49,12 @@ Outside of work, I actively experiment with homelab infrastructure, self-hosting
 
 ## 🚀 Current Focus
 
+- AI-assisted developer workflows and agentic tooling ecosystems
+- Local-first AI experimentation with OSS models and self-hosted inference
+- Multi-agent orchestration with LangGraph, OpenHands, and autonomous task runners
+- Secure developer tooling with policy-aware AI integrations
 - GitOps workflows with ArgoCD + Kustomize
-- Kubernetes policy enforcement with Kyverno
 - Secret management patterns with Bitwarden SM
-- AI-assisted developer workflows
-- Distributed SQL with YugabyteDB
 - Self-hosted platform engineering
 
 ---
